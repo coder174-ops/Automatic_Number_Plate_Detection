@@ -71,4 +71,4 @@ High employee attrition impacts recruitment costs and productivity. This project
 ![HR Analytics Dashboard](images/dashboard.jpeg)
 ---
 
-**Author:** Tanuja  
+**Author:** Neeraj
