@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+mysql-connector-python
+requests
+opencv-python
+numpy
+ultralytics
+paddleocr
+PyQt5
+psutil
+cvzone
